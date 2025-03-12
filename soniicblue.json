@@ -1,0 +1,53 @@
+{
+    "applovinKey": "mua9o9cQ6cSCQTQIXqJk-0qAlB6vdcgskQTD8scxBCrMcggRPTLcvTPBXEbkJBTbo-cvp8kTZmnXnOcIsx7vLb",
+    "units": [
+      {
+        "id": "49971d56340d3a02",
+        "type": "rewarded",
+        "platform": "android",
+        "priority": 1
+      },
+      {
+        "id": "5d849ab3ba2e2404",
+        "type": "interstitial",
+        "platform": "android",
+        "priority": 1
+      },
+      {
+        "id": "6c538bb690a85173",
+        "type": "banner",
+        "platform": "android",
+        "priority": 1
+      }
+    ],
+    "fallbackUnits": [
+      {
+        "id": "49971d56340d3a02",
+        "type": "rewarded",
+        "platform": "android",
+        "priority": 1
+      },
+      {
+        "id": "5d849ab3ba2e2404",
+        "type": "interstitial",
+        "platform": "android",
+        "priority": 1
+      },
+      {
+        "id": "6c538bb690a85173",
+        "type": "banner",
+        "platform": "android",
+        "priority": 1
+      }
+    ],
+    "testMode": {
+      "enabled": false,
+      "testDeviceIds": []
+    },
+    "adSettings": {
+      "maxAdAttempts": 3,
+      "retryInterval": 5,
+      "adCooldown": 60,
+      "rewardedAdMultiplier": 2
+    }
+  }
